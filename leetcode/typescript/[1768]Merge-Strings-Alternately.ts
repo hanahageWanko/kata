@@ -1,8 +1,14 @@
 /**
  * 
-You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
-
+You are given two strings word1 and word2.
+Merge the strings by adding letters in alternating order,
+starting with word1. If a string is longer than the other, 
+append the additional letters onto the end of the merged string.
 Return the merged string.
+
+与えられた二つの文字列 word1 と word2 をマージし、文字を交互に追加していきます。
+この際、マージを word1 から始めます。もし片方の文字列がもう片方よりも長い場合、
+余分な文字はマージした文字列の最後に追加されます。最終的なマージ結果を返してください。
 
  
 ==========
